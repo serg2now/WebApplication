@@ -1,0 +1,26 @@
+# Files
+*.dll
+*.exe
+*.nupkg
+*.nuget.props
+*.nuget.targets
+*.log
+*.mdf
+*.ldf
+*.ndf
+*.cache
+*.pdb
+._*
+*.suo
+*.sln
+
+# Folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+packages/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+

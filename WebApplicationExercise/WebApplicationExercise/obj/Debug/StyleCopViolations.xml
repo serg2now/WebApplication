@@ -1,3 +1,0 @@
-<StyleCopViolations>
-  <Violation Section="Root.WebApplicationExercise.Models.EFModels.DbProduct" LineNumber="30" Source="C:\WebApplicationExercise\WebApplicationExercise\Models\EFModels\DbProduct.cs" RuleNamespace="StyleCop.CSharp.LayoutRules" Rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" RuleId="SA1508">A closing curly bracket must not be preceded by a blank line.</Violation>
-</StyleCopViolations>
